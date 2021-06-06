@@ -3,7 +3,7 @@
 
 - I’m currently learning **Java**
 
-- Languages I am (kind of) familiar with **Java, C#**
+- Languages I am (kind of) familiar with: **Java, C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
