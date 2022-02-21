@@ -1,5 +1,5 @@
 <h1 align="center">Hellow there, my name is Elias!</h1>
-<h3 align="center">Currently student that likes to code in his free-time.</h3>
+<h3 align="center">Currently pupil who likes to code in his free-time.</h3>
 
 - I’m currently learning **Java**
 
